@@ -1,4 +1,4 @@
-# An instagram webclone created by React App
+# An instagram webclone created using React App
 
 This project fonrt end is developed in react js , mui componenets etc.. and back end developed in spring boot a frame work of java . this web application worked through api s . The backend code will be shortly pushed on another repository .
 
