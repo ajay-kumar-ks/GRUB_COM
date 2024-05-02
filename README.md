@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# An instagram webclone created by React App
+
+This project fonrt end is developed in react js , mui componenets etc.. and back end developed in spring boot a frame work of java . this web application worked through api s . The backend code will be shortly pushed on another repository .
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
